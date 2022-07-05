@@ -67,4 +67,4 @@ final as (
 )
 
 select * from final
--- first ide commit
+-- first vscode commit
